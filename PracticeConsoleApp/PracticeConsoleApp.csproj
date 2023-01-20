@@ -5,4 +5,18 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="AbstractClass.cs" />
+    <Compile Remove="AbstractFactoryDesignPattern.cs" />
+    <Compile Remove="AsyncTask.cs" />
+    <Compile Remove="CastingClass.cs" />
+    <Compile Remove="FactoryDesignPattern.cs" />
+    <Compile Remove="InheritanceClass.cs" />
+    <Compile Remove="LinqJoins.cs" />
+    <Compile Remove="LinqQuries.cs" />
+    <Compile Remove="PolymorphismClass.cs" />
+    <Compile Remove="PrgrammingP1.cs" />
+    <Compile Remove="SingletonDesignPattern.cs" />
+  </ItemGroup>
+
 </Project>
